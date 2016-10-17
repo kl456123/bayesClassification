@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476700974 source:c:\users\administrator\desktop\bayesclassfication\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
